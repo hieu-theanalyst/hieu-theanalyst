@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)
 
-- 🌱 I’m currently learning: **Advanced SQL/Python optimization and data visualization**
+- 🌱 I’m currently learning: **Advanced SQL/Python Optimization & Data Visualization**
 
 - 👯 I’m looking to collaborate on: **Retail Sales Forecasting**
 
