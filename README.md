@@ -17,7 +17,7 @@
 
 - 💬 Ask me about: **Power BI, Python for data analysis, SQL, and data storytelling**
 
-- 📫 How to reach me: **hieuminhduong.work@gmail.com**
+- 📫 How to reach me: [My Email](hieuminhduong.work@gmail.com)
 
 - 📄 Know about my experiences: [My Portfolio](https://hieutheanalyst.netlify.app/resume)
 
