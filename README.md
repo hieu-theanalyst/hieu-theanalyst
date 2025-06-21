@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hieu-theanalyst" alt="hieu-theanalyst" /></a> </p>
 
-- 🔭 I’m currently working on: [Porfilio Website](https://hieutheanalyst.netlify.app/)
+- 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)
 
 - 🌱 I’m currently learning: **Advanced SQL/Python optimization and data visualization**
 
