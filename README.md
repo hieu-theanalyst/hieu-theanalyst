@@ -5,25 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hieu-theanalyst" alt="hieu-theanalyst" /></a> </p>
 
-- 🔭 I’m currently working on [Porfilio Website](https://hieutheanalyst.netlify.app/)
+- 🔭 I’m currently working on: [Porfilio Website](https://hieutheanalyst.netlify.app/)
 
-- 🌱 I’m currently learning **Advanced SQL/Python optimization and data visualization**
+- 🌱 I’m currently learning: **Advanced SQL/Python optimization and data visualization**
 
-- 👯 I’m looking to collaborate on **Retail Sales Forecasting**
+- 👯 I’m looking to collaborate on: **Retail Sales Forecasting**
 
-- 🤝 I’m looking for help with **Real-Time Data Pipeline**
+- 🤝 I’m looking for help with: **Real-Time Data Pipeline**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hieu-theanalyst?tab=repositories](https://github.com/hieu-theanalyst?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/hieu-theanalyst?tab=repositories](https://github.com/hieu-theanalyst?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/lolpbtn/](https://www.facebook.com/lolpbtn/)
+- 📝 I regularly write articles on: [https://www.facebook.com/lolpbtn/](https://www.facebook.com/lolpbtn/)
 
-- 💬 Ask me about **Power BI, Python for data analysis, SQL, and data storytelling**
+- 💬 Ask me about: **Power BI, Python for data analysis, SQL, and data storytelling**
 
-- 📫 How to reach me **hieuminhduong.work@gmail.com**
+- 📫 How to reach me: **hieuminhduong.work@gmail.com**
 
-- 📄 Know about my experiences [https://hieutheanalyst.netlify.app/resume](https://hieutheanalyst.netlify.app/resume)
+- 📄 Know about my experiences: [https://hieutheanalyst.netlify.app/resume](https://hieutheanalyst.netlify.app/resume)
 
-- ⚡ Fun fact **I once debugged a SQL query in my sleep—and it worked!**
+- ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
