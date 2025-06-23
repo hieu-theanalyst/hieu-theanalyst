@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with: **Real-Time Data Pipeline**
 
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/hieu-theanalyst?tab=repositories)
+- 👨‍💻 All of my projects are available at: [My repositories](https://github.com/hieu-theanalyst?tab=repositories)
 
 - 💬 Ask me about: **Power BI, Python for data analysis, SQL, and data storytelling**
 
 - 📫 How to reach me: **hieuminhduong.work@gmail.com**
 
-- 📄 Know about my experiences: [My Portfolio](https://hieutheanalyst.netlify.app/resume)
+- 📄 Know about my experiences: [My portfolio](https://hieutheanalyst.netlify.app/resume)
 
 - ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**
 
