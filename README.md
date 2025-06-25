@@ -8,10 +8,18 @@
 
 </div>
 
-## 🏆 GitHub Trophies:
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HieuTheAnalyst&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HieuTheAnalyst&theme=radical&hide_border=false" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+
 </div>
 
 - 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)
@@ -31,18 +39,6 @@
 - 📄 Know about my experiences: [My portfolio](https://hieutheanalyst.netlify.app/resume)
 
 - ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**
-
-## 📊GitHub Stats:
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HieuTheAnalyst&theme=radical&hide_border=false" /><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
-
-</div>
 
 ## Connect with me:
 <p align="left">
