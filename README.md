@@ -2,6 +2,11 @@
 <h3 align="center">Data Analytics Enthusiast from Vietnam 🇻🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="hieu-theanalyst" /> </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hieu-theanalyst&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
 <div align="center">
   
 ![snake gif](https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg)
@@ -9,18 +14,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HieuTheAnalyst&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
-<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hieu-theanalyst&theme=radical&hide_border=false" /><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HieuTheAnalyst&theme=radical&hide_border=false" /><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
 
 </div>
+
+##
 
 - 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)
 
