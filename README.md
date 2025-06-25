@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**
 
-## 📊GitHub Stats & Contributions:
+## 📊GitHub Stats:
 
 <div align="center">
 
@@ -36,8 +36,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=HieuTheAnalyst&theme=radical&hide_border=false" /><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTheAnalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=HieuTheAnalyst&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
