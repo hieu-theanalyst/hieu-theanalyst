@@ -26,6 +26,7 @@
 </div>
 
 ##
+
 <div align="center">
 
 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)  
@@ -39,7 +40,6 @@
 ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**  
 
 </div>
-
 
 ## 
 
@@ -104,9 +104,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duonqminhieu" height="30" width="40" />
   </a>
 </p>
-
-
-
-
-
-
