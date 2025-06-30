@@ -13,7 +13,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=ff69b4&style=flat" 
     alt="hieu-theanalyst" 
-    style="transform: scale(1.5);"
+    width="200"
   />
 </p>
 
