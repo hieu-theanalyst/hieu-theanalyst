@@ -28,60 +28,49 @@
 </div>
 
 
- <div align="center">
+<div align="center">
+
+  <!-- Activity Graph -->
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=nightowl">
+  </a>
+
+  <!-- Profile Details -->
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst">
+    <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
+  </a>
+
+  <!-- Language and Commit Stats -->
   <table>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
-            <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=nightowl">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst">
-            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-    
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst&theme=radical"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst&theme=radical"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst&theme=radical"/>
+        </a>
+      </td>
+    </tr>
   </table>
 
-  <table>
-    <tbody>
-      <tr>
-        <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst&theme=radical"/>
-          </a>
-        </th>
-        <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst&theme=radical"/>
-          </a>
-        </th>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst&theme=radical"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst&theme=radical"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 </div>
+
+
 
 <div align="center">
 
