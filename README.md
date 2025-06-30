@@ -1,16 +1,86 @@
-<h1 align="center">Hello World! I'm Hieu Duong👋</h1>
-<h3 align="center">Data Analytics Enthusiast from Vietnam 🇻🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="hieu-theanalyst" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Hieu+Duong👋" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst;I+work+with+SQL,+Python,+Power+BI;Passionate+about+turning+data+into+insights&center=true&color=%2336BCF7FF&size=22&width=1000">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=ff69b4&style=flat" 
+    alt="hieu-theanalyst" 
+    style="transform: scale(1.5);"
+  />
+</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hieu-theanalyst&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <a href="https://github-trophies.vercel.app/?username=hieu-theanalyst" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=hieu-theanalyst&theme=radical&margin-w=4&margin-h=4">
+  </a>
 </div>
-
-<div align="center">
   
 ![snake gif](https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg)
 
+</div>
+
+
+ <div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
+            <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=nightowl">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst">
+            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+    
+  </table>
+
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hieu-theanalyst&theme=radical"/>
+          </a>
+        </th>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu-theanalyst&theme=radical"/>
+          </a>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu-theanalyst&theme=radical"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hieu-theanalyst&theme=radical"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
@@ -25,7 +95,7 @@
 
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -41,7 +111,9 @@
 
 </div>
 
-## 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -88,7 +160,9 @@
   </a> 
 </p>
 
-## 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center">
   <a href="https://twitter.com/duonqminhieu" target="blank">
@@ -104,3 +178,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duonqminhieu" height="30" width="40" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+ 
