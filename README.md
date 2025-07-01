@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Hieu+Duong👋" />
 </p>
