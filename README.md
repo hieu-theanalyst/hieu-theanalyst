@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst;I+work+with+SQL,+Python,+Power+BI;Passionate+about+turning+data+into+insights&center=true&color=%2336BCF7FF&size=22&width=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst;I+work+with+SQL,+Python,+ETL/ELT+Pipelines;Passionate+about+turning+data+into+insights&center=true&color=%2336BCF7FF&size=22&width=1000">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
