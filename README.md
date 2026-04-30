@@ -14,7 +14,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Hieu+Duong👋" />
@@ -44,7 +43,6 @@
   <img src="https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg" alt="snake gif">
 
 </div>
-
 
 <div align="center">
 
@@ -88,8 +86,6 @@
 
 </div>
 
-
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
@@ -113,7 +109,3 @@
 ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**  
 
 </div>
-
-
-
-
