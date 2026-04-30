@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome!&section=header" width="100%" />
+</div>
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=ff69b4&style=flat" 
@@ -5,6 +9,12 @@
     width="150"
   />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Hieu+Duong👋" />
