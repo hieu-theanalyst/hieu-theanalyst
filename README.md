@@ -21,10 +21,10 @@
 <!-- Tittle -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=fe428e&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=5000&color=fe428e&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst/Engineer;I+work+with+SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=fe428e&size=22&width=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst/Engineer;SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=fe428e&size=25&pause=5000&width=1000">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 
