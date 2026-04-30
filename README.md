@@ -40,7 +40,7 @@
 
   <br/>
 
-  <img src="https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg" alt="snake gif">
+<img src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/snake.svg" alt="Snake animation" />
 
 </div>
 
