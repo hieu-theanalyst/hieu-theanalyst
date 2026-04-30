@@ -92,10 +92,6 @@
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hieu-theanalyst&theme=radical&hide_border=false" /><br/>
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=hieu-theanalyst&limit=5&theme=radical&combine_all_yearly_contributions=true" /><br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
