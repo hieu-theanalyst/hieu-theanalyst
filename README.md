@@ -1,61 +1,41 @@
+<!-- Header Border -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome!&section=header" width="100%" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=70&fontColor=bf7db3&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 </div>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=ff69b4&style=flat" 
-    alt="hieu-theanalyst" 
-    width="150"
-  />
-</p>
-
+ <!-- Pacman Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Hieu+Duong👋" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst/Engineer;I+work+with+SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=%2336BCF7FF&size=22&width=1000">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <a href="https://github-trophies.vercel.app/?username=hieu-theanalyst" target="_blank">
-    <img src="https://github-trophies.vercel.app/?username=hieu-theanalyst&theme=radical&margin-w=4&margin-h=4">
-  </a>
-
-<div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
   </picture>
-
   <br/>
-
-<img src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/snake.svg" alt="Snake animation" />
-
+ <!-- Snake Animation -->
+ <!-- <img src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/snake.svg" alt="Snake animation" /> -->
+</div>
+ <!-- Header Footer -->
+<div align="center">
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hieu-theanalyst&fontSize=30&fontColor=bf7db3&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"width="100%"/>
 </div>
 
-<div align="center">
+<!-- Tittle -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=bf7db3&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong👋" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst/Engineer;I+work+with+SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=bf7db3&size=22&width=1000">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 
   <!-- Activity Graph -->
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=nightowl">
-  </a>
-
+<div align="center">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=radical&bg_color=0d1117&color=bf7db3&line=a9fef7&point=fe428e&hide_border=true"></a>
   <!-- Profile Details -->
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst">
-    <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
+    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
   </a>
-
   <!-- Language and Commit Stats -->
   <table>
     <tr>
@@ -83,21 +63,29 @@
       </td>
     </tr>
   </table>
-
+  <!-- Trophies -->
+  <a href="https://github-trophies.vercel.app/?username=hieu-theanalyst" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=hieu-theanalyst&theme=radical&margin-w=4&margin-h=4">
+  </a>
 </div>
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-theanalyst&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 
+<!-- Stories -->
 <div align="center">
-
+  <!-- View Counts -->
+  <p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=hieu-theanalyst&label=Profile%20views&color=fe428e&style=flat" 
+    alt="hieu-theanalyst" 
+    width="200"
+  />
+</p>
+  
 🔭 I’m currently working on: [Portfolio Website](https://hieutheanalyst.netlify.app/)  
 🌱 I’m currently learning: **Advanced SQL/Python Optimization & Professional Data Visualization**  
 👯 I’m looking to collaborate on: **Retail Sales Forecasting**  
@@ -107,5 +95,4 @@
  📫 How to reach me: **hieuminhduong.work@gmail.com**  
 📄 Know about my experiences: [My portfolio](https://hieutheanalyst.netlify.app/resume)  
 ⚡ Fun fact: **I once debugged a SQL query in my sleep—and it worked!**  
-
 </div>
