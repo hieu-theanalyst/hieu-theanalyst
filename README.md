@@ -20,9 +20,18 @@
   <a href="https://github-trophies.vercel.app/?username=hieu-theanalyst" target="_blank">
     <img src="https://github-trophies.vercel.app/?username=hieu-theanalyst&theme=radical&margin-w=4&margin-h=4">
   </a>
-</div>
-  
-![snake gif](https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg)
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
+  </picture>
+
+  <br/>
+
+  <img src="https://github.com/hieu-theanalyst/hieu-theanalyst/blob/output/github-snake-dark.svg" alt="snake gif">
 
 </div>
 
@@ -99,12 +108,6 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
