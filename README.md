@@ -1,6 +1,6 @@
 <!-- Header Border -->
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=70&fontColor=bf7db3&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=70&fontColor=fe428e&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 </div>
  <!-- Pacman Animation -->
 <div align="center">
@@ -15,23 +15,23 @@
 </div>
  <!-- Header Footer -->
 <div align="center">
- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hieu-theanalyst&fontSize=30&fontColor=bf7db3&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"width="100%"/>
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hieu-theanalyst&fontSize=30&fontColor=fe428e&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"width="100%"/>
 </div>
 
 <!-- Tittle -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=bf7db3&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=fe428e&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong👋" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst/Engineer;I+work+with+SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=bf7db3&size=22&width=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst/Engineer;I+work+with+SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=fe428e&size=22&width=1000">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 
   <!-- Activity Graph -->
 <div align="center">
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=radical&bg_color=0d1117&color=bf7db3&line=a9fef7&point=fe428e&hide_border=true"></a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hieu-theanalyst&theme=radical&bg_color=0d1117&color=fe428e&line=a9fef7&point=fe428e&hide_border=true"></a>
   <!-- Profile Details -->
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst">
     <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieu-theanalyst&theme=radical"/>
